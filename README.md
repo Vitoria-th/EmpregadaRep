@@ -14,7 +14,7 @@ Este programa foi proposto pelo professor Laercio Augusto Baldochi Junior durant
 
 ### Pré requisitos
 
-Para rodar esse programa você precisa instalar Phyton no seu computador.
+Para rodar esse programa você precisa instalar Python no seu computador.
 
 ### Instalando
 
@@ -28,7 +28,7 @@ $ cd EmpregadaRep
 
 ### Rodando
 
-Com o Phyton instalado, você pode rodar o programa.
+Com o Python instalado, você pode rodar o programa.
 
 
 ## Feito com
