@@ -21,7 +21,7 @@ Para rodar esse programa você precisa instalar Python no seu computador.
 **Clonando o Repositório**
 
 ```
-$ git clone git@github.com:Vitoria-th/EmpregadaRep.git
+$ git clone git@github.com:vitori4th/EmpregadaRep.git
 
 $ cd EmpregadaRep
 ```
